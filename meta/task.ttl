@@ -1,3 +1,5 @@
 <http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Packaging/project> <http://purl.org/NET/cpan-uri/terms#requires> "Module::Package::RDF" .
 <http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Packaging/project> <http://purl.org/NET/cpan-uri/terms#requires> "Perl::Version" .
 <http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Packaging/project> <http://purl.org/NET/cpan-uri/terms#requires> "RT::ClientX::GrabBugs" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Packaging/project> <http://purl.org/NET/cpan-uri/terms#requires> "XT::Manager" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Packaging/project> <http://purl.org/NET/cpan-uri/terms#requires> "XT::Util" .

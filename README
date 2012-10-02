@@ -11,6 +11,10 @@ DESCRIPTION
 
     *   RT::ClientX::GrabBugs
 
+    *   XT::Manager
+
+    *   XT::Util
+
 SEE ALSO
     Acme::About::TOBYINK, Task::BeLike::TOBYINK.
 

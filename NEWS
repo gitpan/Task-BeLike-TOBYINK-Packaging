@@ -1,3 +1,5 @@
 Module::Package::RDF
 Perl::Version
 RT::ClientX::GrabBugs
+XT::Manager
+XT::Util

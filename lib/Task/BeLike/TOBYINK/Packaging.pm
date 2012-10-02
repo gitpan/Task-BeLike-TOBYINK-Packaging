@@ -4,7 +4,7 @@ use 5.010;
 
 BEGIN {
 	$Task::BeLike::TOBYINK::Packaging::AUTHORITY = 'cpan:TOBYINK';
-	$Task::BeLike::TOBYINK::Packaging::VERSION   = '2012.155';
+	$Task::BeLike::TOBYINK::Packaging::VERSION   = '2012.276';
 }
 
 __PACKAGE__
@@ -25,6 +25,10 @@ Task installs the following modules:
 =item * Perl::Version
 
 =item * RT::ClientX::GrabBugs
+
+=item * XT::Manager
+
+=item * XT::Util
 
 =back
 
